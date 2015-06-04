@@ -1,0 +1,10 @@
+{
+    "name": "SLDSapp",
+    "main": "app.js",
+    "dependencies": {
+        "express": "latest",
+        "body-parser": "latest",
+        "mysql": "latest",
+        "async": "latest"
+    }
+}
